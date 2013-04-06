@@ -1,0 +1,10 @@
+[database]
+database = test
+port = 3306		;mysqlµÄÄ¬ÈÏ¶Ë¿Ú
+host = localhost
+user = root
+password = 
+id = 35787530
+
+
+

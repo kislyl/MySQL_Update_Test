@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1362737550 source:d:\sql\main.cpp
+	<stdio.h>
+	"winsock2.h"
+	"errmsg.h"
+	"mysql.h"
+	<stdio.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stdlib.h>
+
+1362728804 d:\sql\mysql\errmsg.h
+
+1362728804 d:\sql\mysql\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1362728804 d:\sql\mysql\mysql_com.h
+
+1362728804 d:\sql\mysql\mysql_time.h
+
+1362728804 d:\sql\mysql\mysql_version.h
+	<custom_conf.h>
+
+1362728804 d:\sql\mysql\typelib.h
+
+1362728804 d:\sql\mysql\my_list.h
+
+1362728804 d:\sql\mysql\my_alloc.h
+
+1363012461 source:c:\documents and settings\administrator\桌面\sql\main.cpp
+	<stdio.h>
+	"winsock2.h"
+	"errmsg.h"
+	"mysql.h"
+	<stdio.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stdlib.h>
+
+1362728804 c:\documents and settings\administrator\桌面\sql\mysql\errmsg.h
+
+1362728804 c:\documents and settings\administrator\桌面\sql\mysql\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1362728804 c:\documents and settings\administrator\桌面\sql\mysql\mysql_com.h
+
+1362728804 c:\documents and settings\administrator\桌面\sql\mysql\mysql_time.h
+
+1362728804 c:\documents and settings\administrator\桌面\sql\mysql\mysql_version.h
+	<custom_conf.h>
+
+1362728804 c:\documents and settings\administrator\桌面\sql\mysql\typelib.h
+
+1362728804 c:\documents and settings\administrator\桌面\sql\mysql\my_list.h
+
+1362728804 c:\documents and settings\administrator\桌面\sql\mysql\my_alloc.h
+
+1365179972 source:f:\nd资料\sql\main.cpp
+	<stdio.h>
+	"winsock2.h"
+	"errmsg.h"
+	"mysql.h"
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	"KConfig.h"
+
+1362728804 f:\nd资料\sql\mysql\errmsg.h
+
+1362728804 f:\nd资料\sql\mysql\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1362728804 f:\nd资料\sql\mysql\mysql_com.h
+
+1362728804 f:\nd资料\sql\mysql\mysql_time.h
+
+1362728804 f:\nd资料\sql\mysql\mysql_version.h
+	<custom_conf.h>
+
+1362728804 f:\nd资料\sql\mysql\typelib.h
+
+1362728804 f:\nd资料\sql\mysql\my_list.h
+
+1362728804 f:\nd资料\sql\mysql\my_alloc.h
+
+1365174143 f:\nd资料\sql\kconfig.h
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+	<unistd.h>
+
+1365174154 source:f:\nd资料\sql\kconfig.cpp
+	"KConfig.h"
+

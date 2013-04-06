@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1363084308 source:d:\c++ project\configure\main.cpp
+	"KConfig.h"
+
+1363141920 d:\c++ project\configure\kconfig.h
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+
+1363142107 source:d:\c++ project\configure\kconfig.cpp
+	"KConfig.h"
+
